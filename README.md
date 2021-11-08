@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm enthusiastic software engineer experienced in big data & server-side technologies. I
+enjoy working in a fun, collaborative environment and undertaking responsibility to
+deliver high-impact work.
+
 <!--
 **eimpec/eimpec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
